@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800628956355",
+    "project_id": "flash-chat-6c923",
+    "storage_bucket": "flash-chat-6c923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800628956355:android:f17cb42a796dc910c05676",
+        "android_client_info": {
+          "package_name": "co.Shivender.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800628956355-a80ah4vuc5rdd5983d4ol422ej56t3pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBZZuZ0bJir-VYC4cfP5NrAUDE-2SB0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800628956355-a80ah4vuc5rdd5983d4ol422ej56t3pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
